@@ -1,0 +1,9 @@
+{
+  "watch": ["apis"],
+  "ext": "ts",
+  "ignore": ["apis/**/*.spec.ts"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "exec": "npm run tsc && ts-node ./server.ts"
+}
