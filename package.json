@@ -35,7 +35,7 @@
     "node-cron": "^1.2.1",
     "node-mysql": "^0.4.2",
     "node-uuid": "^1.4.8",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.6.1",
     "pbkdf2": "^3.0.14",
     "redis": "^2.8.0",
     "serverless-apigw-binary": "^0.4.4",
